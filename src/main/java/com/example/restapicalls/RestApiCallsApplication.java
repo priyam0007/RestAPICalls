@@ -8,5 +8,6 @@ public class RestApiCallsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RestApiCallsApplication.class, args);
+        System.out.println("Hello to Spring boot ");
     }
 }
